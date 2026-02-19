@@ -1,5 +1,6 @@
 ![Cool GIF](https://i.pinimg.com/originals/9d/47/e5/9d47e57c028ebe391ca2cb3fa13c87ae.gif)
 
+[![Morocco](https://img.shields.io/badge/Morocco-C1272D?style=for-the-badge&logo=google-maps&logoColor=white)](https://en.wikipedia.org/wiki/Morocco)
 # 👋 Hi, I'm Maryame Arrach
 
 🎓 **Computer Science and Engineering Student**  
@@ -14,3 +15,5 @@ I am building a strong foundation in programming, engineering fundamentals, and 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 [![AUB Mediterraneo](https://img.shields.io/badge/AUB_Mediterraneo-800020?style=for-the-badge&logo=university&logoColor=white)](https://www.aubmed.ac.cy/news/Pages/Press-releases.aspx)
+
+

@@ -1,3 +1,5 @@
+![Cool GIF](https://i.pinimg.com/originals/9d/47/e5/9d47e57c028ebe391ca2cb3fa13c87ae.gif)
+
 # 👋 Hi, I'm Maryame Arrach
 
 🎓 **Computer Science and Engineering Student**  

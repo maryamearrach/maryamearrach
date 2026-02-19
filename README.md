@@ -16,4 +16,5 @@ I am building a strong foundation in programming, engineering fundamentals, and 
 [![AUB Mediterraneo](https://img.shields.io/badge/AUB_Mediterraneo-800020?style=for-the-badge&logo=university&logoColor=white)](https://www.aubmed.ac.cy/news/Pages/Press-releases.aspx)
 [![Morocco](https://img.shields.io/badge/Morocco-C1272D?style=for-the-badge&logo=google-maps&logoColor=white)](https://en.wikipedia.org/wiki/Morocco)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryame-arrach-82413628a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamearrach98@gmail.com)
+
+gmail: maryamearrach98@gmail.com

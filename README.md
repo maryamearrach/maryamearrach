@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Maryame Arrach
 
-<!--
-**maryamearrach/maryamearrach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science and Engineering Student**  
+📍 **American University of Beirut – Mediterraneo**  
+📘 **1st Year Undergraduate**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a first-year Computer Science and Engineering student at the American University of Beirut – Mediterraneo.  
+I am building a strong foundation in programming, engineering fundamentals, and problem-solving, with a growing interest in technology and innovation.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)

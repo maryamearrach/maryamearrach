@@ -1,29 +1,19 @@
-<div align="center">
-  
-# 💗 𝓌𝑒𝓁𝒸❁𝓂𝑒 𝓉☯ 𝓂𝓎 𝓊𝓃𝒾𝓋𝑒𝓇𝓈𝑒 💗
-
 ![Cool GIF](https://i.pinimg.com/originals/9d/47/e5/9d47e57c028ebe391ca2cb3fa13c87ae.gif)
 
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=%F0%9F%91%91+Maryame+Arrach+%F0%9F%91%91;CS+%26+Engineering+Student;Future+Tech+Innovator" alt="Typing SVG" />
+# 👋 Hi, I'm Maryame Arrach
+
+🎓 **Computer Science and Engineering Student**  
+📍 **American University of Beirut – Mediterraneo**  
+📘 **1st Year Undergraduate**
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
-**`✨ digital creator | code artist | tech dreamer ✨`** 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+I am a first-year Computer Science and Engineering student at the American University of Beirut – Mediterraneo.  
+I am building a strong foundation in programming, engineering fundamentals, and problem-solving, with a growing interest in technology and innovation.
 
----
-
-</div>
-
-## 💕 𝒶𝒷❁𝓊𝓉 𝓂𝑒 💕
-
-```css
-# 🎀 Maryame Arrach 🎀
-━━━━━━━━━━━━━━━━━━━
-📍 Location: American University of Beirut – Mediterraneo
-📚 Year: 1st Year Undergraduate 
-💻 Major: Computer Science and Engineering
-🌟 Vibe: Building dreams one line of code at a time
-🎯 Goal: Creating tech that sparks joy ✨
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[![AUB Mediterraneo](https://img.shields.io/badge/AUB_Mediterraneo-800020?style=for-the-badge&logo=university&logoColor=white)](https://www.aubmed.ac.cy/news/Pages/Press-releases.aspx)
+[![Morocco](https://img.shields.io/badge/Morocco-C1272D?style=for-the-badge&logo=google-maps&logoColor=white)](https://en.wikipedia.org/wiki/Morocco)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryame-arrach-82413628a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamearrach98@gmail.com)

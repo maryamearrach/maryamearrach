@@ -16,6 +16,4 @@ I am building a strong foundation in programming, engineering fundamentals, and 
 
 [![AUB Mediterraneo](https://img.shields.io/badge/AUB_Mediterraneo-0078D7?style=for-the-badge&logo=university&logoColor=white)](https://www.aubmed.ac.cy/news/Pages/Press-releases.aspx)
 
-[![Press Releases](https://img.shields.io/badge/Press_Releases-AA0000?style=for-the-badge&logo=shields-dot-io&logoColor=white)](https://www.aubmed.ac.cy/news/Pages/Press-releases.aspx)
-
-[![AUB Mediterraneo News](https://img.shields.io/badge/AUB_Med_News-blue?style=for-the-badge&logo=news&logoColor=white)](https://www.aubmed.ac.cy/news/Pages/Press-releases.aspx)
+[![AUB Mediterraneo](https://img.shields.io/badge/AUB_Mediterraneo-800020?style=for-the-badge&logo=university&logoColor=white)](https://www.aubmed.ac.cy/news/Pages/Press-releases.aspx)
